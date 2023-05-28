@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/s1s69ai3ge9t9sfv?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-whack-goblin)
+[![Build status](https://ci.appveyor.com/api/projects/status/nflu6mhlibsxy9lc?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-whack-goblin)
 
 WHACK THEM ALL: https://garfy2.github.io/ahj-whack_goblin/
 
